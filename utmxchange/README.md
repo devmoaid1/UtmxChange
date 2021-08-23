@@ -10,4 +10,7 @@ The name of our application is UTM Exchange and our stakeholder is UTM Internati
 </ul>
 
 <h1>Screenshots</h1> 
-<img src="screenshots/login"><img>
+<img src="/utmxchange/screenshots/login.png"><img>
+<img src="/utmxchange/screenshots/Home.png"><img>
+<img src="/utmxchange/screenshots/friends.png"><img>
+<img src="/utmxchange/screenshots/freinds%20details.png"><img>
