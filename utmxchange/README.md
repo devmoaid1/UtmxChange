@@ -1,16 +1,10 @@
 # utmxchange
 
-A new Flutter project.
+The name of our application is UTM Exchange and our stakeholder is UTM International. The main goal of the project is to help and guide exchange students and staff under inbound mobility program who come here in UTM for a very short period of time (mostly one or two semesters) and not very familiar with MALAYSIA and as well as the surroundings of UTM.
 
-## Getting Started
+# Built with
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<ul>
+<li>Flutter</li>
+<li>Firebase</li>
+</ul>

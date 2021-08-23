@@ -48,7 +48,7 @@ import 'package:utm_x_change/screens/arrivingatCampus/Arriving_Campus.dart';
 import 'screens/staff/updateGUI/shopping/staff_shops.dart';
 import 'screens/staff/updateGUI/updatedodont/dosStaff.dart';
 
-class Router {
+class Routing {
   static Route<dynamic> createRoute(settings) {
     switch (settings.name) {
       case splash:

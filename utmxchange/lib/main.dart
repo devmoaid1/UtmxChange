@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       // initial route spalscScreen
       initialRoute: splash,
-      onGenerateRoute: Router.createRoute,
+      onGenerateRoute: Routing.createRoute,
       debugShowCheckedModeBanner: false,
     );
   }
