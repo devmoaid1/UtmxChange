@@ -24,7 +24,7 @@ class _EditProfileState extends State<EditProfile> {
   Widget build(BuildContext context) {
     final profile = ProfileInheritedWidget.of(context).dataservice;
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
+      resizeToAvoidBottomInset: false,
       body: Container(
         color: Colors.pink[900],
         child: Column(

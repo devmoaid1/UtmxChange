@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:utm_x_change/constants.dart';
+import 'constants.dart';
 import 'package:utm_x_change/screens/checklist/checkDesc.dart';
 import 'package:utm_x_change/screens/checklist/checkListHome.dart';
 import 'package:utm_x_change/screens/dosDonts/description.dart';
@@ -10,7 +10,7 @@ import 'package:utm_x_change/screens/staff/updateGUI/shopping/newShops.dart';
 import 'package:utm_x_change/screens/staff/updateGUI/shopping/updateShops.dart';
 import 'package:utm_x_change/screens/staff/updateGUI/updatedodont/editDo.dart';
 import 'package:utm_x_change/screens/staff/updateGUI/updatedodont/newDo.dart';
-import 'constants.dart';
+
 import 'screens/dosDonts/dosdonts.dart';
 import 'screens/home/home.dart';
 import 'screens/login/login.dart';

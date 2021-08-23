@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:utm_x_change/constants.dart';
+import 'constants.dart';
 import 'package:utm_x_change/router.dart';
 
 void main() => runApp(MyApp());
