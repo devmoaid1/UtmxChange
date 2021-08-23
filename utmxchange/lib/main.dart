@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'constants.dart';
-import 'package:utm_x_change/router.dart';
+import 'router.dart';
 
 void main() => runApp(MyApp());
 
