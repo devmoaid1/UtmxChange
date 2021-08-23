@@ -120,8 +120,9 @@ class _LoginPageState extends State<LoginPage> {
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(18.0),
         ),
-        prefixIcon:
-            hintText == "User ID" ? Icon(Icons.email) : Icon(Icons.lock),
+        prefixIcon: hintText == "User ID"
+            ? Icon(Icons.email, color: Colors.white)
+            : Icon(Icons.lock, color: Colors.white),
         suffixIcon: hintText == "Password"
             ? IconButton(
                 onPressed: _toggleVisibility,
