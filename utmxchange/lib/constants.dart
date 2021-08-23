@@ -1,0 +1,47 @@
+const String splash = '/splash';
+const String home = '/home';
+const String profile = '/profile';
+const String setings = '/settings';
+const String login = '/login';
+const String checkList = '/checkList';
+const String decsList = '/decsList';
+const String notices = '/notices';
+const String descNotice = '/descNotice';
+const String staffHome = '/staffHome';
+const String staff_Student_manage = '/staff_Student_manage';
+const String staff_notice = '/staff_notice';
+const String staff_notice_update = '/staff_notice_update';
+const String staff_notice_add = '/staff_notice_add';
+const String staff_Student_add = '/staff_Student_add';
+const String staff_Student_update = '/staff_Student_update';
+const String staff_Student = '/staff_Student';
+const String descStudent = '/descStudent';
+const String staff_updateGUI = '/staff_updateGUI';
+const String staff_checkList = '/staff_checkList';
+const String staff_checkList_helper = '/staff_checkList_helper';
+const String staff_checkList_New = '/staff_checkList_New';
+const String staff_checkList_Update = '/staff_checkList_Update';
+//added by anmnishat
+const String accommodation = '/acoommodation';
+const String livingCost = '/livingCost';
+const String shopping = '/shopping';
+const String staff_shopUpdate = '/staff_shopUpdate';
+const String staff_shopNew = '/staff_shopNew';
+const String staff_shop = '/staff_shop';
+//added by raqibul
+const String info_menu = '/info_menu';
+const String about_Malaysia = '/aboutMalaysia';
+const String about_UTM = '/aboutUTM';
+const String place = '/place';
+const String dosDontsMenu = '/dosDontsMenu';
+const String dos = '/dos';
+const String donts = '/donts';
+const String descOfDd = '/descOfDd';
+const String staff_dosdont_update = '/staff_dosdont_update';
+const String staff_dosdont_new = '/staff_dosdont_new';
+const String dosdonts = '/dosdonts';
+const String staff_dosdont = '/staff_dosdont';
+
+const String friend = '/friend';
+const String arrive = '/arrive';
+const String travel = '/travel';
